@@ -1,0 +1,167 @@
+.container{
+    width: 1000px;
+    margin: auto;
+    border: solid 2px blue;
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.header-wrapper .header-logo{
+    width: 182px;
+    height: 90px;
+    border: solid 1px black;
+}
+.header-wrapper .header-navigation{
+    height: 90px;
+    border: solid 1px black;
+}
+.banner-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.banner-wrapper .banner-text{
+    height: 800px;
+    border: solid 1px black;
+}
+.banner-wrapper .banner-image{
+    height: 800px;
+    border: solid 1px black;
+}
+.about-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.about-wrapper .about-text{
+    height: 600px;
+    border: solid 1px black;
+}
+.about-wrapper .about-image{
+    height: 600px;
+    border: solid 1px black;
+}
+
+
+.statictics{
+    height: 250px;
+}
+.statictics-wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+
+.statictics-item{
+    height: 200px;
+    width: 250px;
+    border: solid 1px black;
+}
+
+
+.text-area{
+    height: 100px;
+    border: solid 1px black;
+}
+.card-area{
+    height: 610px;
+}
+.card-area .card-area-wrapper{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.card-items{
+    height: 200px;
+    width: 33.3%;
+    border: solid 1px black;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.features-text-area{
+    height: 100px;
+    border: solid 1px black;
+}
+.txt .txt-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.txt-wrapper .text-side{
+    height: 200px;
+    border: solid 1px black;
+}
+.txt-wrapper .image-side{
+    height: 200px;
+    border: solid 1px black;
+}
+
+
+.testimoails-text-area{
+    height: 100px;
+    border: solid 1px black;
+}
+.txt-wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.txt-wrapper .text-item{
+    height: 250px;
+    border: solid 1px black;
+}
+
+
+.pricing-text-area{
+    height: 100px;
+    border: solid 1px black;
+}
+.txt-wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.txt-wrapper .txt-colom{
+    height: 300px;
+    width: 200px;
+    border: solid 1px black;
+}
+
+
+.faq-text-area{
+    height: 100px;
+    border: solid 1px black;
+}
+.faq-row-area{
+    height: 200px;
+    border: solid 1px black;
+}
+
+
+.contact-text-area{
+    height: 100px;
+    border: solid 1px black;
+}
+.contact-top-wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.contact-top-wrapper .contact-top{
+    height: 300px;
+    border: solid 1px black;
+}
+.contact-bottom{
+    height: 300px;
+    border: solid 1px black;
+}
+
+
+.footer-text-wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-text-wrapper .footer-text{
+    height: 200px;
+    border: solid 1px black;
+}
+.footer-down{
+    height: 100px;
+    border: solid 1px black;
+}
